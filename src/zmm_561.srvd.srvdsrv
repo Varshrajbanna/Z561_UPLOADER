@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition For Stcok Upload 561'
+define service ZMM_561 {
+  expose I_Plant as Plant;
+}
